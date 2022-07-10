@@ -1,0 +1,6 @@
+Step 1: Input path to the selected folder that contains the files with the names that need correcting.
+
+Step 2: Type the character that you would like removed for your files.
+
+IMPORTANT INFO: If you file looks like this "File.Name.Here.V.1.924" and the character you remove is "."
+your resulting file would look like this "File Name Here V1.924".
